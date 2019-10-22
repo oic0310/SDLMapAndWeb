@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.smartdevicelink:sdl_android:4.8.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f9f78dd1c1d3fc7cb65977bc7f9e10de/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f9f78dd1c1d3fc7cb65977bc7f9e10de/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f9f78dd1c1d3fc7cb65977bc7f9e10de/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.smartdevicelink/sdl_android/4.8.0/1f1a33eb55033c14e38f83e759882c672c0651c4/sdl_android-4.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

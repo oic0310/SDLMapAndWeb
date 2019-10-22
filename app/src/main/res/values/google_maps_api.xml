@@ -1,0 +1,3 @@
+<resources>
+    <string name="APIKEY" templateMergeStrategy="preserve" translatable="false">input userkey</string>
+</resources>
